@@ -1,1 +1,2 @@
-Esto es una prueba
+Esto es una prueba de git para el challenge
+Ejercicio clase 01
